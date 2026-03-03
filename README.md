@@ -1,5 +1,15 @@
 # capstone-PlaylistCrusaders
 
+This project was originally developed as a group project.
+
+My contributions:
+
+
+Original team members:
+- Me
+- 06kevin29
+- rsoto726
+
 
 ## Deliverables 
 - Proposal 
