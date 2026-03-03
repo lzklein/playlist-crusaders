@@ -2,13 +2,36 @@
 
 This project was originally developed as a group project.
 
-My contributions:
-
-
-Original team members:
+## Original team members:
 - Me
 - 06kevin29
 - rsoto726
+
+## My Contributions
+
+### Audio Player (YouTube IFrame API)
+- Built the audio player using the YouTube IFrame API
+- Retrieved and displayed track metadata (title and author)
+- Implemented playback controls:
+  - Play / Pause
+  - Previous / Next track
+  - Volume control
+  - Seek bar with clickable position tracking
+
+### WebSockets
+- Set up WebSockets for live updates between frontend and backend
+- Live like-count updates across all connected users
+
+### Full Stack Contributions
+- Contributed to frontend component development
+- Assisted in UI design and react components
+- Worked on general feature development across the application where needed
+
+### Debugging & Stability Improvements
+- Identified and resolved API endpoint inconsistencies
+- Assisted with bug fixing across the codebase
+
+![Screenshot of audio player](./PlaylistCrusader.png)
 
 
 ## Deliverables 
